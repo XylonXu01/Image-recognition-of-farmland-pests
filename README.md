@@ -44,5 +44,3 @@
 
 
 
-## Faster RCNN框架图
-![Faster R-CNN](fasterRCNN.png) 
